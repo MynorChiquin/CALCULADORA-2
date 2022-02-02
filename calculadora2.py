@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 if o == 3:
     num1 = int(input("Escriba su primer numero."))
     num2 = int(input("Escriba su segundo numero."))
